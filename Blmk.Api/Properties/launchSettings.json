@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "AlephCRM.Api": {
+    "Blmk.Api": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
